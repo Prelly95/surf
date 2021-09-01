@@ -2,4 +2,5 @@ config.h
 *.o
 *.orig
 *.*.rej
-dwm
+*.so
+surf
